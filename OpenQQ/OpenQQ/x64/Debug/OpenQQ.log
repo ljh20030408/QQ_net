@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  CgHeadDlg.cpp
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\CgHeadDlg.cpp(166,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ChatDlg.cpp
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\ChatDlg.cpp(62,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\ChatDlg.cpp(68,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\ChatDlg.cpp(90,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\ChatDlg.cpp(212,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\ChatDlg.cpp(288,34): warning C4244: “参数”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\ChatDlg.cpp(244,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\ChatDlg.cpp(246,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FriDlg.cpp
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\FriDlg.cpp(159,2): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\FriDlg.cpp(225,7): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\FriDlg.cpp(251,8): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\FriDlg.cpp(437,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\OpenQQ\FriDlg.cpp(438,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OpenQQ.cpp
+  OpenQQDlg.cpp
+  RegDlg.cpp
+  正在生成代码...
+  OpenQQ.vcxproj -> C:\Users\DELL\Desktop\OpenQQ-master\OpenQQ\x64\Debug\OpenQQ.exe
